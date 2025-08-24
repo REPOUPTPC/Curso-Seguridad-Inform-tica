@@ -42,9 +42,13 @@ Los hackers usan muchas trampas. Aquí te mostramos las más comunes para que la
 
 * **Ataques DDoS:** 💥 Es como si una multitud de bots intentara entrar a un sitio web al mismo tiempo para que colapse y nadie más pueda usarlo.
 
+[Ver contenido completo de la Clase 1 en Clase001.md](./Clase001.md)
+
 ## Clase 2: La Primera Barrera de Defensa: Contraseñas y Autenticación 🔑
 
 Tu contraseña es la primera línea de defensa. Hazla **larga** (más de 12 caracteres), **única** para cada cuenta y con una mezcla de mayúsculas, minúsculas, números y símbolos. Y siempre, siempre, activa la **autenticación de dos factores (2FA)**. Es como tener una segunda llave que solo tú tienes (tu teléfono, por ejemplo).
+
+[Ver contenido completo de la Clase 2 en Clase002.md](./Clase002.md)
 
 ## Clase 3: Protegiendo tu Territorio Digital 🔒
 
@@ -53,6 +57,8 @@ Tu contraseña es la primera línea de defensa. Hazla **larga** (más de 12 cara
 * **Antivirus y Firewalls:** 🛡️ Instala un buen antivirus y un firewall. Son como los guardias de seguridad que revisan el tráfico de tu computadora y te protegen de amenazas.
 
 * **Cuidado con el Wi-Fi Público:** ☕ Cuando uses una red Wi-Fi en una cafetería, usa una **VPN**. Esto encripta tu conexión y protege tus datos.
+
+[Ver contenido completo de la Clase 3 en Clase003.md](./Clase003.md)
 
 ## Clase 4: Hábitos para una Navegación Segura 🎒
 
@@ -71,6 +77,8 @@ Tu contraseña es la primera línea de defensa. Hazla **larga** (más de 12 cara
   * **Recupera:** 💾 Una vez que todo esté limpio, cambia tus contraseñas, restaura tus archivos si es necesario y asegura tus cuentas.
 
   * **Aprende:** 💡 ¿Cómo te atacaron? ¿Qué puerta dejaron abierta? Analiza lo que pasó para que no vuelva a suceder.
+
+[Ver contenido completo de la Clase 4 en Clase004.md](./Clase004.md)
 
 ### Tu Futuro en la Ciberseguridad 🚀
 
