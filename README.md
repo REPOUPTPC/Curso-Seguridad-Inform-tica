@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://www.uptpc.edu.ve/">
+<img src="https://i.ibb.co/ZzBd0nQ1/LOGO.png" alt="Logo de la UPTPC" width="200"/>
+</a>
+</p>
+
 # 🛡️ Ciberseguridad para Futuros Cracks Digitales 🚀
 
 ¡Bienvenido(a) a tu guía esencial para dominar la ciberseguridad! Este repositorio está diseñado para jóvenes profesionales, estudiantes y cualquier persona que quiera fortalecer su "armadura digital" en un mundo cada vez más conectado.
