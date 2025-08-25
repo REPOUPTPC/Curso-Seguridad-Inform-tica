@@ -48,6 +48,37 @@ Los hackers usan muchas trampas. Aquí te mostramos las más comunes para que la
 
 Tu contraseña es la primera línea de defensa. Hazla **larga** (más de 12 caracteres), **única** para cada cuenta y con una mezcla de mayúsculas, minúsculas, números y símbolos. Y siempre, siempre, activa la **autenticación de dos factores (2FA)**. Es como tener una segunda llave que solo tú tienes (tu teléfono, por ejemplo).
 
+### Creando la Contraseña Invencible 🔒
+
+Olvídate de usar tu fecha de nacimiento o el nombre de tu mascota. Una contraseña fuerte es la clave para mantener a los hackers lejos. Sigue estos pasos para crearla:
+
+* **Largo es mejor:** A partir de **12 caracteres** es un buen punto de partida. Cuanto más larga, más difícil de adivinar.
+
+* **Mezcla de sabores:** Combina **letras** (mayúsculas y minúsculas), **números** y **símbolos** (`!@#$%^&*`). Una contraseña como `P@$$w0rd` es mucho más segura que `password`.
+
+* **Única para cada cuenta:** Si usas la misma contraseña para todo, un solo hackeo podría comprometer todas tus cuentas. ¡Usa una contraseña diferente para cada una!
+
+* **Guarda la clave:** Usa un **gestor de contraseñas** como 1Password o LastPass. Son aplicaciones que crean y guardan tus contraseñas seguras para que solo tengas que recordar una.
+
+### El Poder de la Doble Llave: 2FA 📱
+
+La autenticación de dos factores (2FA) añade una capa extra de protección. Incluso si un hacker logra robar tu contraseña, no podrá acceder a tu cuenta porque le faltará esa segunda "llave".
+
+¿Cómo funciona? Es simple:
+
+1. Ingresas tu contraseña.
+
+2. El sistema te pide un segundo código, que solo tú puedes generar o recibir.
+
+   * Puede ser un código enviado a tu teléfono por SMS.
+
+   * Un código generado por una aplicación como Google Authenticator.
+
+   * O incluso una clave física que conectas por USB.
+
+Activa el 2FA en todas tus cuentas importantes: correo electrónico, redes sociales, servicios bancarios y cualquier plataforma que maneje datos sensibles. Es la forma más fácil de duplicar tu seguridad.
+
+
 [Ver contenido completo de la Clase 2 en Clase002.md](./Clase002.md)
 
 ## Clase 3: Protegiendo tu Territorio Digital 🔒
